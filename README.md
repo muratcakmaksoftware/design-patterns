@@ -25,7 +25,12 @@
   - [Strategy](https://medium.com/@murat-cakmak/strategy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-7f6d34c60203)
   - Template Method
   - Visitor
+- Functional Patterns
+  - Fluent Interface
 
+## Recommended Resources
+- https://refactoring.guru/design-patterns
+- https://java-design-patterns.com/patterns/
 
 
 
