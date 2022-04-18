@@ -2,7 +2,7 @@
 - [Creational Patterns](https://medium.com/@murat-cakmak/list/creational-patterns-9ce60129857f)
   - [Singleton](https://medium.com/@murat-cakmak/singleton-design-pattern-kod-%C3%B6rne%C4%9Fiyle-shortly-1f4d03c928f7)
   - [Abstract Factory](https://medium.com/@murat-cakmak/abstract-factory-design-kod-%C3%B6rne%C4%9Fiyle-6fd2253e57dd)
-  - Builder
+  - [Builder](https://medium.com/@murat-cakmak/builder-design-pattern-kod-%C3%B6rne%C4%9Fiyle-178c8f854dad)
   - [Factory Method](https://medium.com/@murat-cakmak/factory-design-pattern-kod-%C3%B6rne%C4%9Fiyle-shortly-5c30e226283b)
   - Prototype
 - [Structural Patterns](https://medium.com/@murat-cakmak/list/structural-patterns-29dbabd99565)
