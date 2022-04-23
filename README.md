@@ -4,7 +4,7 @@
   - [Abstract Factory](https://medium.com/@murat-cakmak/abstract-factory-design-kod-%C3%B6rne%C4%9Fiyle-6fd2253e57dd)
   - [Builder](https://medium.com/@murat-cakmak/builder-design-pattern-kod-%C3%B6rne%C4%9Fiyle-178c8f854dad)
   - [Factory Method](https://medium.com/@murat-cakmak/factory-design-pattern-kod-%C3%B6rne%C4%9Fiyle-shortly-5c30e226283b)
-  - Prototype
+  - [Prototype](https://medium.com/@murat-cakmak/prototype-design-pattern-kod-%C3%B6rne%C4%9Fiyle-7ecd54ae52eb)
 - [Structural Patterns](https://medium.com/@murat-cakmak/list/structural-patterns-29dbabd99565)
   - [Adapter](https://medium.com/@murat-cakmak/adapter-design-pattern-kod-%C3%B6rne%C4%9Fiyle-f1c49c1ae4f1) 
   - Bridge
