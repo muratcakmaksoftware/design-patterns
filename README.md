@@ -9,7 +9,7 @@
   - [Adapter](https://medium.com/@murat-cakmak/adapter-design-pattern-kod-%C3%B6rne%C4%9Fiyle-f1c49c1ae4f1) 
   - [Bridge](https://medium.com/@murat-cakmak/bridge-design-pattern-kod-%C3%B6rne%C4%9Fiyle-51971cf0d173)
   - [Composite](https://medium.com/@murat-cakmak/composite-design-pattern-kod-%C3%B6rne%C4%9Fiyle-bdc7d9220e6f)
-  - Decorator
+  - [Decorator](https://medium.com/@murat-cakmak/decorator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-5373c518d36b)
   - [Facade](https://medium.com/@murat-cakmak/facade-design-pattern-kod-%C3%B6rne%C4%9Fiyle-shortly-92ed2dcbeb00) 
   - Flyweight
   - [Proxy](https://medium.com/@murat-cakmak/proxy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-a882dfb2d02)
@@ -31,6 +31,7 @@
 ## Recommended Resources
 - https://refactoring.guru/design-patterns
 - https://java-design-patterns.com/patterns/
+- https://sourcemaking.com/design_patterns/
 
 
 
