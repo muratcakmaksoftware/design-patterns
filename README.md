@@ -11,7 +11,7 @@
   - [Composite](https://medium.com/@murat-cakmak/composite-design-pattern-kod-%C3%B6rne%C4%9Fiyle-bdc7d9220e6f)
   - [Decorator](https://medium.com/@murat-cakmak/decorator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-5373c518d36b)
   - [Facade](https://medium.com/@murat-cakmak/facade-design-pattern-kod-%C3%B6rne%C4%9Fiyle-shortly-92ed2dcbeb00) 
-  - Flyweight
+  - [Flyweight](https://medium.com/@murat-cakmak/flyweight-design-pattern-kod-%C3%B6rne%C4%9Fiyle-a5c7f2fd0bb6)
   - [Proxy](https://medium.com/@murat-cakmak/proxy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-a882dfb2d02)
 - [Behavioral Patterns](https://medium.com/@murat-cakmak/list/behavioral-patterns-d9beaa49d7f6)
   - Chain of Responsibility
