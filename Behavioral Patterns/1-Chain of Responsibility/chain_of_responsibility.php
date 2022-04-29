@@ -5,9 +5,9 @@
  */
 interface Handler
 {
-    public function addChain(Handler $handler): Handler;
+    public function addChain(Handler $handler): Handler; //Handler'la alakalı sınıfları zincire ekleyebilmek için
 
-    public function next($request);
+    public function next($request); //sıradaki sınıfı çağırması için
 }
 
 /**
@@ -33,7 +33,7 @@ abstract class AbstractHandler implements Handler
         return null;
     }
 
-    //İşlemlerin yapılacağı sınıf.
+    //İşlemlerin yapılacağı metot.
     public abstract function handle($request);
 }
 
@@ -81,6 +81,7 @@ $handlerC = new HandlerC();
 $handlerA->addChain($handlerB)->addChain($handlerC);
 echo $handlerA->handle('B');//İşlemin başlatılması.
 
+//Zincirin çıktısı
 echo '<pre>';
 print_r($handlerA);
 echo '</pre>';
