@@ -16,7 +16,7 @@
 - [Behavioral Patterns](https://medium.com/@murat-cakmak/list/behavioral-patterns-d9beaa49d7f6)
   - [Chain of Responsibility](https://medium.com/@murat-cakmak/chain-of-responsibility-design-pattern-kod-%C3%B6rne%C4%9Fiyle-69b976282cd6)
   - [Command](https://medium.com/@murat-cakmak/command-design-pattern-kod-%C3%B6rne%C4%9Fiyle-b3ba61b69154)
-  - Interpreter
+  - [Interpreter](https://medium.com/@murat-cakmak/interpreter-design-pattern-kod-%C3%B6rne%C4%9Fiyle-4cf6e3a51c34)
   - Iterator
   - Mediator
   - Memento
@@ -30,9 +30,9 @@
 
 ## Recommended Resources
 - https://refactoring.guru/design-patterns
-- https://java-design-patterns.com/patterns/
-- https://sourcemaking.com/design_patterns/
-
+- https://java-design-patterns.com/patterns
+- https://sourcemaking.com/design_patterns
+- https://dofactory.com/net/design-patterns
 
 
 
