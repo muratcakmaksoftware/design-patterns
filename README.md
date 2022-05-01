@@ -15,7 +15,7 @@
   - [Proxy](https://medium.com/@murat-cakmak/proxy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-a882dfb2d02)
 - [Behavioral Patterns](https://medium.com/@murat-cakmak/list/behavioral-patterns-d9beaa49d7f6)
   - [Chain of Responsibility](https://medium.com/@murat-cakmak/chain-of-responsibility-design-pattern-kod-%C3%B6rne%C4%9Fiyle-69b976282cd6)
-  - Command
+  - [Command](https://medium.com/@murat-cakmak/command-design-pattern-kod-%C3%B6rne%C4%9Fiyle-b3ba61b69154)
   - Interpreter
   - Iterator
   - Mediator
