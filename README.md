@@ -17,7 +17,7 @@
   - [Chain of Responsibility](https://medium.com/@murat-cakmak/chain-of-responsibility-design-pattern-kod-%C3%B6rne%C4%9Fiyle-69b976282cd6)
   - [Command](https://medium.com/@murat-cakmak/command-design-pattern-kod-%C3%B6rne%C4%9Fiyle-b3ba61b69154)
   - [Interpreter](https://medium.com/@murat-cakmak/interpreter-design-pattern-kod-%C3%B6rne%C4%9Fiyle-4cf6e3a51c34)
-  - Iterator
+  - [Iterator](https://medium.com/@murat-cakmak/iterator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-ad983bc82bc6)
   - Mediator
   - Memento
   - Observer
