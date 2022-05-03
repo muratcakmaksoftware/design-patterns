@@ -19,7 +19,7 @@
   - [Interpreter](https://medium.com/@murat-cakmak/interpreter-design-pattern-kod-%C3%B6rne%C4%9Fiyle-4cf6e3a51c34)
   - [Iterator](https://medium.com/@murat-cakmak/iterator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-ad983bc82bc6)
   - [Mediator](https://medium.com/@murat-cakmak/mediator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-a7868fad3ca1)
-  - Memento
+  - [Memento](https://medium.com/@murat-cakmak/memento-design-pattern-kod-%C3%B6rne%C4%9Fiyle-84eae55e0d9c)
   - Observer
   - State
   - [Strategy](https://medium.com/@murat-cakmak/strategy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-7f6d34c60203)
