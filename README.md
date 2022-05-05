@@ -20,7 +20,7 @@
   - [Iterator](https://medium.com/@murat-cakmak/iterator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-ad983bc82bc6)
   - [Mediator](https://medium.com/@murat-cakmak/mediator-design-pattern-kod-%C3%B6rne%C4%9Fiyle-a7868fad3ca1)
   - [Memento](https://medium.com/@murat-cakmak/memento-design-pattern-kod-%C3%B6rne%C4%9Fiyle-84eae55e0d9c)
-  - Observer
+  - [Observer](https://medium.com/@murat-cakmak/observer-design-pattern-kod-%C3%B6rne%C4%9Fiyle-befed8162fe4)
   - State
   - [Strategy](https://medium.com/@murat-cakmak/strategy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-7f6d34c60203)
   - Template Method
