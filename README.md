@@ -23,10 +23,11 @@
   - [Observer](https://medium.com/@murat-cakmak/observer-design-pattern-kod-%C3%B6rne%C4%9Fiyle-befed8162fe4)
   - [State](https://medium.com/@murat-cakmak/state-design-pattern-kod-%C3%B6rne%C4%9Fiyle-e9d295bdaf3e)
   - [Strategy](https://medium.com/@murat-cakmak/strategy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-7f6d34c60203)
-  - Template Method
+  - [Template Method](https://medium.com/@murat-cakmak/template-method-design-pattern-kod-%C3%B6rne%C4%9Fiyle-c307efac1c0c)
   - Visitor
 
 ## Recommended Resources
+- https://www.evrenbal.com/design-patterns-tasarim-desenleri-nedir/
 - https://refactoring.guru/design-patterns
 - https://java-design-patterns.com/patterns
 - https://sourcemaking.com/design_patterns
