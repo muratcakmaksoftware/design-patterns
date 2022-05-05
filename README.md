@@ -24,7 +24,7 @@
   - [State](https://medium.com/@murat-cakmak/state-design-pattern-kod-%C3%B6rne%C4%9Fiyle-e9d295bdaf3e)
   - [Strategy](https://medium.com/@murat-cakmak/strategy-design-pattern-kod-%C3%B6rne%C4%9Fiyle-7f6d34c60203)
   - [Template Method](https://medium.com/@murat-cakmak/template-method-design-pattern-kod-%C3%B6rne%C4%9Fiyle-c307efac1c0c)
-  - Visitor
+  - [Visitor](https://medium.com/@murat-cakmak/visitor-design-pattern-kod-%C3%B6rne%C4%9Fiyle-cf5335c80e68)
 
 ## Recommended Resources
 - https://www.evrenbal.com/design-patterns-tasarim-desenleri-nedir/
